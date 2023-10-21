@@ -7,3 +7,4 @@ mkdir = sirve para crear una carpeta (directorio)
 rd o mrdir = sirve para eliminar carpeta 
 copy con = sirve para crear un  archivo y editarlo 
 ctrl+z = sirve para  guardar el archivo
+exit = salir del cmd
